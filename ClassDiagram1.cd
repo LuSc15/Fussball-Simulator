@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Fussball_Simulator.Person">
+    <Position X="9" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAAAAAAAAAAAIAAQAAQAAAAABAA=</HashCode>
+      <FileName>Person.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fussball_Simulator.Spieler">
+    <Position X="5.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABBAgAAABAAAAAAEAAAAIAQAAACQAAA=</HashCode>
+      <FileName>Spieler.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fussball_Simulator.Torwart">
+    <Position X="7" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Torwart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fussball_Simulator.Trainer">
+    <Position X="10.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trainer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fussball_Simulator.Mannschaft">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAQAAQAAAAAAgAAAAAAAEAAAAAAAACgAQFAg=</HashCode>
+      <FileName>Mannschaft.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Fussball_Simulator.Spiel">
+    <Position X="1.75" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AIABAAAAAAAAgCAAAAAAAAgAAAAAAAAQAEQAQACAAIA=</HashCode>
+      <FileName>Spiel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
